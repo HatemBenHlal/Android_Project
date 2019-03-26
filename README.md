@@ -11,13 +11,14 @@ We have two pages
 - Network detection (Wifi/Data/No Data)
 - Snackbar to show no internet connection
 - Using Glide to handle image loading  and cache with DiskCacheStrategy
+- Beautiful loading and fluid views
 
 
 # Screenshot
 
 Demo 1                     | Demo 2
 :-------------------------: | :--------------------------:
-![](https://github.com/HatemBenHlal/AndroidProject/blob/master/1.png) | ![](https://github.com/HatemBenHlal/AndroidProject/blob/master/2.png)
+![](https://github.com/HatemBenHlal/Android_Project/blob/master/1.png) | ![](https://github.com/HatemBenHlal/Android_Project/blob/master/2.png)
 
 
 ## Installation
